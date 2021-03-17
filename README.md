@@ -5,7 +5,7 @@ A repository containing the final project on 8th semester subject "VLSI Design" 
 - [Stelios Mouslech](https://github.com/SteliosMouslech)
 - [Nina Lazaridou](https://github.com/nlazaridou)
 ### About Project
-In this project we implement the popular game Score 4 on an FPGA. The project must be able to have 
+In this project we implement the popular game Score 4 on an FPGA. The project contains:
 - Control Logic (FSM) for choosing, putting and winning for each player
 - Panel Display, Showing the game .
 
